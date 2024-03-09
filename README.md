@@ -1,1 +1,1 @@
-# ARAFA-HateSpeech
+# ARAFA-HateSpeechDetection
